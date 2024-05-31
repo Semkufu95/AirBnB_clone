@@ -8,7 +8,7 @@ header {
 }
 
 header .logo {
-    background-image: url(/home/semkufu/swe/AirBnB_clone/web_static/images/logo.png);
+    background-image: url(/AirBnB_clone/web_static/images/logo.png);
     margin-left: 20px;
     display: flex;
     align-items: center;
